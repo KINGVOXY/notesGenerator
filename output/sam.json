@@ -1,0 +1,15 @@
+{
+  "name": "test",
+  "mul": 4,
+  "composer": "",
+  "notes": [
+    {"line": 12, "type": 1, "timing": 0},
+    {"line": 23, "type": 1, "timing": 0.5},
+    {"line": 4, "type": 1, "timing": 1.0},
+    {"line": 2, "type": 1, "timing": 1.5},
+    {"line": 123, "type": 1, "timing": 2.0},
+    {"line": -1, "type": 1, "timing": 2.5},
+    {"line": 4, "type": 1, "timing": 3.0},
+    {"line": 34, "type": 1, "timing": 3.5}
+  ]
+}
